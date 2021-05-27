@@ -18,12 +18,11 @@
   >Rayon interne (sans prendre en compte la fibre neutre)
  
   >Angle du pliage en degrés par rapport à la forme
-## Exemple:
 
 
 <br/><br/><abbr>
 ### WIKI: https://github.com/exuva/exemple.py/wiki
-### Cours: https://github.com/exuva/cours/wiki
+### Cours: https://github.com/exuva/fibre-neutre/wiki
   
 <br/><br/><br/><abbr>
 **If you have any questions:**
