@@ -25,8 +25,3 @@
 ### Cours: https://github.com/exuva/fibre-neutre/wiki
   
 <br/><br/><br/><abbr>
-**If you have any questions:**
-  
-**My discord:** Mʌrius#2561
-  
-**My discord server:** https://discord.gg/PvQ6peA
